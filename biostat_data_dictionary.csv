@@ -1,0 +1,15 @@
+﻿variable,example,data_type,sub_type,description
+sample_id,S001,Identifier,ID,Unique sample code
+site,Site_A,Qualitative,Nominal,Sampling site name
+habitat_type,Stream,Qualitative,Nominal,Habitat category without natural order
+species,Midge,Qualitative,Nominal,Biological species/group category
+treatment,Control,Qualitative,Nominal,Experimental treatment group
+pollution_level,"Low, Medium, High",Qualitative,Ordinal,Pollution category with natural order
+health_score,"Poor, Fair, Good, Excellent",Qualitative,Ordinal,Organism condition category with natural order
+abundance_count,25,Quantitative,Discrete,Number of individuals counted
+egg_count,40,Quantitative,Discrete,Number of eggs counted
+body_length_mm,8.25,Quantitative,Continuous,Measured body length in millimeters
+body_weight_g,0.143,Quantitative,Continuous,Measured body weight in grams
+water_temp_c,21.50,Quantitative,Continuous,Water temperature in Celsius
+dissolved_oxygen_mg_L,7.80,Quantitative,Continuous,Dissolved oxygen concentration
+survival,Survived,Qualitative,Nominal,Survival outcome category
