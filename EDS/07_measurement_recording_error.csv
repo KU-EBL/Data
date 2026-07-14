@@ -1,0 +1,9 @@
+﻿site_id,temperature_C,rainfall_mm,note
+S01,18.2,12.0,normal
+S02,19.4,8.5,normal
+S03,,15.2,sensor battery failure
+S04,20.8,,rain gauge maintenance
+S05,21.0,4.2,normal
+S06,,7.4,temperature file not uploaded
+S07,18.9,10.1,normal
+S08,20.4,2.8,normal

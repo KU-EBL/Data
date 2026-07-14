@@ -1,0 +1,9 @@
+﻿site_id,elevation_m,road_access,winter_sample_available,temperature_C
+S01,120,Good,Yes,5.2
+S02,180,Good,Yes,4.8
+S03,650,Poor,No,
+S04,720,Poor,No,
+S05,250,Good,Yes,3.9
+S06,810,Poor,No,
+S07,300,Moderate,Yes,2.8
+S08,900,Poor,No,
